@@ -7,6 +7,6 @@
 <title>hello</title>
 </head>
 <body>
-<h1>Spring MVC! Hello World!</h1>
+    hello ${name} from ${country}
 </body>
 </html>
